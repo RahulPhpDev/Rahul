@@ -2,7 +2,6 @@
 
 I'm Rahul Chauhan. I work as a software engineer during the day. I love to tweet about tech - spreading knowledge about software development and engineering!
 
-<a href="https://www.buymeacoffee.com/absatyaprakash" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ---
 
